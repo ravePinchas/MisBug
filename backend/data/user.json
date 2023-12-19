@@ -1,0 +1,25 @@
+[
+  {
+    "_id": "u101",
+    "fullname": "Muki Ja",
+    "username": "muki",
+    "password": "muki1234",
+    "score": 100
+  },
+  {
+    "fullname": "Rave Pinchas",
+    "username": "Rave",
+    "password": "rave1234",
+    "score": 100,
+    "_id": "7sDIdT"
+  },
+  {
+    "username": "rave",
+    "password": "$2b$10$mK6qWqgsltcJwv.zAz5wOu2sK0kamvWRwySy4wN9Ne6.DSjoKf4TG",
+    "fullname": "rave",
+    "isAdmin": true,
+    "_id": "mdWo5K",
+    "score": 10000,
+    "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
+  }
+]
